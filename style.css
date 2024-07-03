@@ -133,9 +133,9 @@
   gap: 0.3cm;
 
 }
-.hobby_container > i{
+.hobby_container i{
   display: flex;
-  font-size: 0.9cm;
+  font-size: 0.8cm;
 }
 .hobby_container p{
   margin: 0;
